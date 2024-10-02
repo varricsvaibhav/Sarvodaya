@@ -10,16 +10,16 @@ const Navbar = () => {
       <div className='menu'>
       <ul>
        <li className='navlist' >
-         destination
+         Home
        </li>
        <li className='navlist' >
-         About us
+         About
         </li>
         <li className='navlist' >
-        contact
+       program
         </li>
         <li className='navlist' >
-         Gallry
+         communites
         </li>
         <li className='navlist' >
         
